@@ -16,7 +16,7 @@ public class DBConnection {
 	  		Class.forName("com.mysql.jdbc.Driver");
 	  		con = DriverManager.getConnection(URL,USER,PWD);
 	  		System.out.println("database connecting succeed");
-	  	} catch (SQLException e) {
+	  	} catch (SQLException e) {asdpio'hq ioera;h gldkfangklaw o;ajtgdpioh
 	  		System.out.println("database connecting failed");
 	  		// TODO Auto-generated catch blo-QWAwaaAck
 	  		e.printStackTrace();
